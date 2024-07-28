@@ -1,0 +1,58 @@
+Btch-52, Q3 Lahore
+Roll NO: PIAIC-51471
+Assignment #2 Generative AI Fundamentals
+
+Microservices are a way to design software systems as a collection of small, independent services that each perform a specific function. Unlike traditional monolithic applications, where all components are tightly integrated, microservices allow for independent deployment and scaling of each service. They can use different technologies and programming languages and often manage their own data. This makes them more resilient to failures and easier to update and maintain.
+
+Microservices
+
+- Definition:
+  - Architectural style for building applications as a collection of small, independent services.
+  - Each service focuses on a specific business function.
+  - Services can be developed, deployed, and scaled independently.
+
+- Characteristics:
+  - Independent Deployment: Update services without affecting others.
+  - Scalability: Scale individual services based on demand.
+  - Technology Agnostic: Use different technologies for different services.
+  - Resilience: Failure of one service doesn’t impact the entire system.
+  - Decentralized Data Management: Each service can have its own database.
+
+Developing AI-Based Microservices
+
+1. Identify AI Functionality:
+   - Define the AI task (e.g., NLP, image recognition).
+
+2. Choose Tools and Frameworks:
+   - Use AI frameworks (e.g., TensorFlow, PyTorch).
+
+3. Design Microservice Architecture:
+   - Define service responsibilities (e.g., data preprocessing, model training).
+   - Design APIs for communication between services.
+
+4. Data Management:
+   - Implement services for data collection and storage.
+   - Develop services for data preprocessing.
+
+5. Model Training and Deployment:
+   - Train models using chosen frameworks.
+   - Deploy models using serving tools (e.g., TensorFlow Serving).
+
+6. Monitoring and Maintenance:
+   - Monitor performance and accuracy with tools like Prometheus.
+   - Update models regularly with new data.
+
+7. Security and Compliance:
+   - Follow security best practices and comply with regulations (e.g., GDPR).
+
+8. Testing and Quality Assurance:
+   - Perform unit, integration, and load testing.
+
+Example: AI-Based Recommendation System
+
+- User Data Service: Collects user interactions.
+- Content Service: Manages content for recommendations.
+- Recommendation Engine: Generates recommendations using AI.
+- Feedback Service: Collects feedback to improve recommendations.
+
+Benefits: Scalable, resilient, and maintainable AI systems that adapt quickly to business needs.
