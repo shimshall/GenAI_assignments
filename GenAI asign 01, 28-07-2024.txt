@@ -1,0 +1,42 @@
+Btch-52, Q3 Lahore
+Roll NO: PIAIC-51471
+Assignment #1 Generative AI Fundamentals
+
+
+Artificial Intelligence (AI)
+----------------------------
+- Definition: AI is a broad field of computer science focused on creating systems that can perform tasks requiring human intelligence, like reasoning, learning, problem-solving, perception, and language understanding.
+- Scope: Encompasses various technologies, including rule-based systems, expert systems, and more advanced techniques like ML and DL.
+- Examples: Voice assistants (Siri, Alexa), game-playing computers (IBM's Watson), autonomous systems (self-driving cars).
+
+Machine Learning (ML)
+----------------------
+- Definition: ML is a subset of AI that uses algorithms and statistical models to enable computers to improve their performance on a task through experience (data) without explicit programming.
+- Key Feature: Focuses on building models that can learn from data and make predictions or decisions.
+- Examples: Spam email filtering, recommendation systems (Netflix, Amazon), image recognition software.
+
+Deep Learning
+-------------
+- Definition: Deep Learning is a subset of ML using neural networks with many layers to analyze data. Effective at processing large volumes of unstructured data like images, audio, and text.
+- Key Feature: Utilizes neural networks to recognize complex patterns and make predictions.
+- Examples: Image recognition (facial recognition), natural language processing (NLP), autonomous vehicles.
+
+Generative AI
+-------------
+- Definition: Generative AI creates new content, such as text, images, and music, rather than analyzing existing data.
+- Key Feature: Uses generative models to produce outputs that are novel and often indistinguishable from human-created content.
+- Examples: DALL-E for image generation, ChatGPT for text generation, AI music composers.
+
+Applied AI
+----------
+- Definition: Applied AI refers to the practical application of AI technologies to solve specific, real-world problems. Focuses on using AI to improve processes, products, or services.
+- Key Feature: Implementation-oriented, targeting specific industry challenges.
+- Examples: AI for predictive maintenance in manufacturing, fraud detection in finance, personalized marketing in retail.
+
+Summary
+-------
+- Artificial Intelligence (AI): Overarching field mimicking human intelligence.
+- Machine Learning (ML): Subset of AI focused on learning from data.
+- Deep Learning: Specialized ML branch using neural networks for complex data.
+- Generative AI: AI creating new content like text and images.
+- Applied AI: Use of AI technologies to solve real-world problems.
