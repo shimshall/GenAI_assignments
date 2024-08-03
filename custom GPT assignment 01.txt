@@ -1,6 +1,6 @@
 Btch-52, Q3 Lahore
 Roll NO: PIAIC-51471
-Assignment #1 Generative AI Fundamentals
+Assignment #1 Custom GPT's
 
 ------------------------
 General Overview of GPTs
